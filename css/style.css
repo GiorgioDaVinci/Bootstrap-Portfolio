@@ -54,3 +54,14 @@ p{
     height: 200px;
     width: 200px;
 }
+.skills{
+    background-image: url(../images/bg-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    height: calc(90vh - 35px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
