@@ -17,5 +17,7 @@ md
 
 There is a drop down menu on the navigation bar under the work section where the user can click and be redirected to the web pages where the projects are located on a new tab. This makes it easier for the user to navigate between pages.
 
+Here is a link to the deployed website on Github Pages: https://giorgiodavinci.github.io/Bootstrap-Portfolio/
+
 ## License
 MIT
