@@ -51,8 +51,8 @@ p{
     text-align: center;
 }
 .image{
-    height: 200px;
-    width: 200px;
+    height: auto;
+    max-width: 100%;
 }
 .skills{
     background-image: url(../images/bg-img.png);
