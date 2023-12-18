@@ -4,7 +4,8 @@
 
 The Bootstrap portfolio was made using bootstrap. This was done to reduce the amount of css logic that is written to make a website responsive. In essence, bootstrap is a css framework that was used to reduce the number of media queries written to make a website responsive. 
 
-Bootsrap makes it possible for a website to be repsonsive and saves the developer time that would have been used to write media queries for responsiveness.
+Bootstrap makes it possible for a website to be repsonsive and saves the developer time that would have been used to write media queries for responsiveness.
+
 
 ## Usage
 md
